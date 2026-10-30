@@ -7,7 +7,8 @@
       "namespace": "android_app",
       "package_name": "it.josam.bandcalendar",
       "sha256_cert_fingerprints": [
-        "F2:18:90:70:71:C4:4D:D6:21:DA:B9:69:73:84:F9:22:3A:9B:FB:E7:37:B6:39:53:02:AA:22:D0:E5:46:4C:40"
+        "F2:18:90:70:71:C4:4D:D6:21:DA:B9:69:73:84:F9:22:3A:9B:FB:E7:37:B6:39:53:02:AA:22:D0:E5:46:4C:40",
+        "E2:36:11:F2:1C:6A:60:03:5E:BA:33:86:F0:19:83:D7:DE:7C:DD:44:8D:3F:CE:3E:03:F3:7F:EC:F1:1F:44:B4"
       ]
     }
   }
